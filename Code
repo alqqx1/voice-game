@@ -1,9 +1,7 @@
-
 import random
 import speech_recognition as sr
 from googletrans import Translator
 import sounddevice as sd
-from scipy.io.wavfile import write
 import time
 import os
 import wave
